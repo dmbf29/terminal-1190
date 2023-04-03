@@ -34,3 +34,6 @@ mv cheatsheet.txt test
 
 mv filename new_filename
 -> renames a file
+
+open .
+-> (Mac only) opens the folder inside of Finder
