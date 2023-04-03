@@ -1,0 +1,9 @@
+git init
+-> start a BRAND NEW git repository
+
+# Create a "Save point" aka a commit
+git add filename another_filename
+git commit --message "put a meaningful message"
+
+# To push that to Github
+git push origin master
