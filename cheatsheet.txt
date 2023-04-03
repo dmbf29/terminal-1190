@@ -1,0 +1,36 @@
+pwd
+-> print the working directory aka "what folder am i in?"
+
+ls / ll
+-> see the contents of a folder
+
+cd folder_name
+-> move into that folder
+
+cd ..
+-> move out of that folder
+
+mkdir folder_name
+-> creates a folder
+
+touch filename.extension
+-> creates a filename
+
+code .
+-> open VS code
+
+rm index.html
+-> remove a file
+
+rm -r folder_name (apparently only sometimes asks if you're sure)
+rm -rf folder_name
+-> force remove a folder
+
+cat filename
+-> prints contents into the Terminal
+
+mv cheatsheet.txt test
+-> moves a file into the specific location
+
+mv filename new_filename
+-> renames a file
